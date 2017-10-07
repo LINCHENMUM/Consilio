@@ -1,0 +1,14 @@
+﻿Id,First Name,Last Name,Friends
+a001,Neil,Avery,a003;a005;a010
+a002,Leonard,Vaughan,a003;a006;a011
+a003,Phil,Robertson,a001;a002;a008
+a004,Claire,White,a009;a011;a007
+a005,Alison,Hodges,a001;a008;a010;a012;a009
+a006,Natalie,Rutherford,a002
+a007,Deirdre,Hughes,a004;a008;a012
+a008,Nathan,Cameron,a003;a005;a007
+a009,Joseph,Bailey,a004;a005
+a010,Michelle,Stewart,a001;a005;a013
+a011,James,Bailey,a002;a004
+a012,Audrey,White,a005;a007
+a013,Sophie,Graham,a010
